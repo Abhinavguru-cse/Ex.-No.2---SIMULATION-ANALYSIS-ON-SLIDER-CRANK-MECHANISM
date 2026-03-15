@@ -44,11 +44,14 @@
 <img width="978" height="491" alt="image" src="https://github.com/user-attachments/assets/5d203b65-b6bd-42e8-b4e2-e762bf1a6ca7" />
 <img width="974" height="526" alt="image" src="https://github.com/user-attachments/assets/2957aed7-5979-4435-9516-2395067d0de2" />
 
-## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
-
 
 ### Name:ABHINAV GURU R
+
+
+
+
+
+
 ### Register Number: 
 
 ## RESULT:
